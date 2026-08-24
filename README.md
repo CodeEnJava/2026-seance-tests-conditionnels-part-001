@@ -37,7 +37,7 @@ Au cours de cette séance, vous apprendrez à utiliser :
 
 Avant de commencer cette séance, vous devez être capable de :
 
-* Utiliser l'environnement Python IDLE.
+* Utiliser l'environnement Python IDLE/Pycharm.
 * Créer, enregistrer et exécuter un script Python.
 * Utiliser des variables.
 * Réaliser des opérations arithmétiques simples.
