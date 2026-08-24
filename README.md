@@ -62,6 +62,10 @@ Pour chaque exercice :
 
 ---
 
+## 💻 Lien vers la vidéo
+https://youtu.be/BsJTZioI8yQ
+
+---
 ## Accès aux exercices
 
 > **Important**
