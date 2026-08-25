@@ -1,5 +1,5 @@
 # code pour exercice N°3
-# code pour exercice N°3
+
 """
 On souhaite indiquer si un nombre entier est :
 •	Négatif
