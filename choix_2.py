@@ -20,11 +20,16 @@ while True:
 # fin de la lecture du nombre entier
 
 # traitement #
+# SI le nombre est inférieure à 0 alors c'est nombre négatif
 
-if nombre < 0:
+# je teste le nombre , pour savoir s'il est négatif
+if nombre < 0:# tester le nombre  est-ce que le nombre est négatif ?
+    #ALORS
     print("%d est un nombre négatif" %(nombre))
 else:
-    if nombre%2==0:
+    #SINON
+    # ne nombre n'est pas négatif
+    if nombre%2==0: # est-ce ce nombre est pair ?
         print("%d le nombre est positif et pair" % (nombre))
     else:
         print("%d le nombre est positif et impair" % (nombre))
