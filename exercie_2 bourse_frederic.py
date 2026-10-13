@@ -17,14 +17,8 @@ valeur_actuelle = volume_action * dernier_cours
 gain_perte = valeur_actuelle - valeur_achat
 
 if gain_perte > 0 :
-    {
-       print (f"vos gain  sont de {gain_perte} € ")
-    }
+    print (f"vos gain  sont de {gain_perte} € ")
 elif gain_perte == 0 :
-    {
-        print (f"vos gains sont de {gain_perte} €" )
-    }
+    print (f"vos gains sont de {gain_perte} €" )
 else:
-    {
     print (f"vos perte sont de {gain_perte} €")
-    }
