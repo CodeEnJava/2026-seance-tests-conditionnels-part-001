@@ -9,10 +9,14 @@ choix_numero = int(input("Choisisque votre numéro : "))
 mise = 10
 gain = 0
 
-if option_pari >= 0 and option_pari <= 12:
+if 0 <= option_pari <= 12:
     if option_pari == choix_numero:
         gain = mise * 12
-    else: gain = 0
+        #cas du 0 identique à 1
+        if gain == 0:
+            gain = 12
+    else:
+        gain = 0
 
 elif option_pari == 13:
     if choix_numero % 2 == 0:
@@ -22,13 +26,23 @@ elif option_pari == 13:
 
 elif option_pari == 14:
     if choix_numero % 2 == 1:
+        # alternative choix_numero % 2 != 0: cette solution est à retenir pour indiquer impair
         gain = mise * 2
     else:
         gain = 0
 
 elif option_pari == 15:
-    if choix_numero == 1 or choix_numero == 3 or choix_numero == 5 or choix_numero == 7 or \
-        choix_numero == 9 or choix_numero == 12:
+    # alternative  on 1,3,5,7,9   et 12
+    # if (choix_pari % 2 != 0 or choix_pari == 12) and choix_pari != 11
+    # après avoir étudié les liste
+    # if choix_pari in [1,3,5,7,9,12]
+    if (choix_numero == 1 or
+            choix_numero == 3 or
+            choix_numero == 5 or
+            choix_numero == 7 or
+            choix_numero == 9 or
+            choix_numero == 12
+    ):
         gain = mise * 2
     else:
         gain = 0
