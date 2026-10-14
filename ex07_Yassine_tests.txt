@@ -1,3 +1,4 @@
+#Exercice n°7 — Calcul de l’inverse d’un nombre
 Preuves de bon fonctionnement des différents cas de test :
 
 Console affiche :
