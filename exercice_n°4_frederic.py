@@ -1,15 +1,14 @@
-#assignation des constante
+#assignation des constantes
 
 multiplicateur_gain = 12
 multiplicateur_pair_impair = 2
 multiplicateur_couleur = 2
-resultat = 0
 mise = 10
-gains = 0
+
 
 #variable du numero gagnant
-multiplicateur_gain = 12
 numero_gagnant = 0
+gains = 0
 
 
 #assignation des variables via input
