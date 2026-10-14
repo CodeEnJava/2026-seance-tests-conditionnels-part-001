@@ -1,0 +1,23 @@
+Preuves de bon fonctionnement des différents cas de test :
+
+Console affiche :
+
+Test n°1 :
+
+Saisissez un nombre reel :0
+Impossible
+
+Test n°2 :
+
+Saisissez un nombre reel :2
+l'inverse de ce nombre est : 0.5
+
+Test n°3 :
+
+Saisissez un nombre reel :-4
+l'inverse de ce nombre est : -0.25
+
+Test n°4 :
+
+Saisissez un nombre reel :2.5
+l'inverse de ce nombre est : 0.4
