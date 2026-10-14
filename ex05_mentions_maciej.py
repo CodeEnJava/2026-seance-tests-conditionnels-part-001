@@ -1,5 +1,5 @@
 # code pour : ex05_mentions_maciej.py
-#A
+
 print("="*50)
 print("Solution 1")
 print("="*50)
