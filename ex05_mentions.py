@@ -35,7 +35,7 @@ else :
     print("admis mention tres bien")
 
 
-#solution 2
+#solution 2"
 
 moyenne_3 = float (input("entrer votre moyenne : "))
 
