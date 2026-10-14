@@ -1,0 +1,30 @@
+#Exercice n°8 — État de l’eau en fonction de la température
+Preuves de bon fonctionnement des différents cas de test :
+
+Test 1 :
+Saisissez une température :-1
+l'état est Solide
+
+Test 2 :
+Saisissez une température :0
+l'état est Liquide
+
+Test 3 :
+Saisissez une température :1
+l'état est Liquide
+
+Test 4 :
+Saisissez une température :50
+l'état est Liquide
+
+Test 5 :
+Saisissez une température :99
+l'état est Liquide
+
+Test 6 :
+Saisissez une température :100
+l'état est Liquide
+
+Test 7 :
+Saisissez une température :101
+l'état est Gazeux
