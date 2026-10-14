@@ -1,4 +1,5 @@
 #assignation des constantes
+#test
 
 multiplicateur_gain = 12
 multiplicateur_pair_impair = 2
