@@ -18,3 +18,4 @@ else :
     nb_inverse = numerateur / nb_choisi
     print(f"linverse de {nb_choisi} est {nb_inverse} ")
 
+#
