@@ -1,0 +1,31 @@
+tp n°8
+
+test du programme
+
+Test 1 :
+température :-1
+l'eau'est Solide
+
+Test 2 :
+température :0
+l'eau est Liquide
+
+Test 3 :
+température :1
+l'eau est Liquide
+
+Test 4 :
+température :50
+l'eau est Liquide
+
+Test 5 :
+température :99
+l'eau est Liquide
+
+Test 6 :
+température :100
+l'eau est Liquide
+
+Test 7 :
+température :101
+l'eau est gazeuse

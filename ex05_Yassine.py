@@ -1,4 +1,4 @@
-#Exercice n°5 — Mentions
+                                                #Exercice n°5 — Mentions
 
 #Saisie de la moyenne
 

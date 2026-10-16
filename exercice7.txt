@@ -1,0 +1,17 @@
+test du programme calculer l inverse du nombre
+
+test 1 :
+
+si on rentre le chiffre zero , le programme affiche "impossible"
+
+test 2 :
+
+si on rentre le chiffre 2 , le programme affiche 0.5
+
+test 3 :
+
+si on rentre le chiffre 4 , le programme affiche 0.25
+
+test 4 :
+
+si on rentre un chiffre decimal , exemple 2.5 ; le programme affiche 0.4
