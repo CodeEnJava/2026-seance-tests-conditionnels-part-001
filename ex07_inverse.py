@@ -1,4 +1,4 @@
-
+# exo
 nombre = 0
 
 nombre = float(input("Entrez un nombre : "))
