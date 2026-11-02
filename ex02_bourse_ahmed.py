@@ -1,4 +1,5 @@
 # 1. Demander les informations à l'utilisateur
+
 nom_action = input("Nom de l'action : ")
 volume = int(input("Nombre d'actions détenues : "))
 prix_achat = float(input("Prix d'achat d'une action : "))
